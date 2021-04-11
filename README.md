@@ -1,1 +1,2 @@
 # GhosDoser
+## Usage
